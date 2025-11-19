@@ -1,4 +1,4 @@
-<h3 align="left">💫 About Me:</h3>
+<h3 align="center">hey there 👋</h1>
 
 ###
 
